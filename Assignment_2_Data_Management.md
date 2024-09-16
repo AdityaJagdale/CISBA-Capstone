@@ -9,7 +9,7 @@ This assessment evaluates my proficiency in data management, covering key compet
 -   **ETL Processes:** Proficient in extracting data from various sources, transforming it for analysis, and loading it into data warehouses using Python.
 -   **Machine Learning:** Skilled in applying various algorithms using R Script to identify patterns and make predictions from data.
 -   **Project Management:** Adept at planning, organizing, and executing data mining projects, as demonstrated by my website presentation:  [https://dpred.my.canva.site/](https://dpred.my.canva.site/)
--   **Technical Tools:** Comfortable using Google Colab/Jupyter Notebooks for Python scripting and R Studio for R programming.
+-   **Technical Tools:** Proficient in Google Colab/Jupyter Notebooks for Python scripting and R Studio for R programming.
 
 ## Projects
 
