@@ -67,4 +67,4 @@ Data analytics relies heavily on software and systems to function effectively. M
 -   **Data Warehousing and Management:** Utilizing my knowledge of Snowflake and data warehousing principles to manage data efficiently.
 -   **Integration with Other Systems:** Integrating the software with data analysis and visualization tools.
 
-By leveraging my software and systems expertise, I can be a valuable asset in building a robust and scalable solution for the capstone project.
+By leveraging my software and systems expertise, I can build a robust and scalable solution for the capstone project.
