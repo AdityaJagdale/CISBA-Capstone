@@ -1,4 +1,4 @@
-## Data Management Competency Assessment
+# Data Management Competency Assessment
 
 This assessment evaluates my proficiency in data management, covering key competencies, areas for improvement, and future goals. Through coursework and personal initiatives, I have developed skills in data extraction, transformation, loading (ETL), machine learning for prediction, and project planning.
 
@@ -11,7 +11,7 @@ This assessment evaluates my proficiency in data management, covering key compet
 -   **Project Management:** Adept at planning, organizing, and executing data mining projects, as demonstrated by my website presentation:  [https://dpred.my.canva.site/](https://dpred.my.canva.site/)
 -   **Technical Tools:** Proficient in Google Colab/Jupyter Notebooks for Python scripting and R Studio for R programming.
 
-## Projects
+### Projects
 
 **1. Diabetes Prediction using ML in R Script (GitHub):** [linked here](https://github.com/AdityaJagdale/Diabetes-Prediction-using-Machine-Learning-R-.git)
 
@@ -32,20 +32,20 @@ This assessment evaluates my proficiency in data management, covering key compet
     -   Data loading: Loaded the transformed data into a desired destination (e.g., another file, database).
 -   **Outcome:** Created a reusable data pipeline that can be adapted to various data sources and analysis tasks, showcasing proficiency in data management and Python programming.
 
-**2. Where I'm Weak**
+## Where I'm Weak
 
 -   **Big Data Management:** While not covered extensively in coursework, I recognize the increasing importance of big data technologies in the industry.
 -   **Cloud-Based Data Warehousing:** My exposure to cloud-based data warehousing platforms like Snowflake and Amazon Redshift was limited. However, I have actively bridged this gap by taking online training to enhance my practical knowledge.
 -   **Paper Writing and Exams:** I acknowledge the need to improve my writing and theoretical understanding in data management concepts, as assessed through traditional exams.
 
-**3. What I Wish I Knew**
+## What I Wish I Knew
 
 -   **Big Data Processing Frameworks:** Learning frameworks like Hadoop and Spark would equip me to handle and analyze large-scale datasets efficiently.
 -   **Advanced Data Warehousing Tools:** Knowledge of data warehousing tools like Snowflake and Matillion for ETL would further solidify my data management skillset.
 
 These additional skills are valuable for staying competitive in the Data Management field, particularly roles requiring handling and processing large datasets and building complex data pipelines.
 
-**4. Summary and Future Goals**
+## Summary and Future Goals
 
 I am confident in my ability to effectively manage data, demonstrated by my proficiency in ETL processes, machine learning classification tasks, and project planning. I am continuously motivated to improve and stay updated on industry trends. My future goals include:
 
@@ -54,7 +54,7 @@ I am confident in my ability to effectively manage data, demonstrated by my prof
 
 By taking a two-fold approach of acquiring theoretical knowledge and enhancing practical skills, I aim to solidify my foundation in Data Management and excel in future endeavors.
 
-**5. Contribution Towards the Capstone**
+## Contribution Towards the Capstone
 
 Data Management acts as the backbone for deriving value from data. Understanding data movement, transformation, storage methods, and security is crucial for successful data analytics and machine learning projects. My knowledge of these areas, coupled with my ETL skills, allows me to build data pipelines that empower various analytical tools and address diverse use cases. This comprehensive understanding will significantly contribute to the success of my capstone project.
 
