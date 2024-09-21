@@ -1,4 +1,4 @@
-## Software and Systems Assessment
+# Software and Systems Assessment
 This assessment evaluates my proficiency in software and systems development, highlighting key competencies, areas for improvement, and future goals. Through coursework and practical projects, I have developed skills in data engineering, software development, project management, and technical communication. My ability to effectively design, develop, and maintain software systems will contribute significantly to the capstone project.
 
 ### What I Know
@@ -24,7 +24,7 @@ This assessment evaluates my proficiency in software and systems development, hi
 **Project Examples:**
 
 -   **Data Warehousing and Data Orchestration:** Completed Snowflake Data Warehousing and Matillion courses, demonstrating the ability to build data pipelines and write SQL procedures for data warehousing.
--   **Competency Comparison App:** Currently working on a project to compare competencies using Django, HTML, CSS, and unit testing ([link](https://github.com/AdityaJagdale/sessions_demo_c3t.git)). This project showcases proficiency in software development, project planning, and technical documentation.
+-   **Competency Comparison App:** Currently working on a project to compare competencies using Django, HTML, CSS, and unit testing ([link to partial feature](https://github.com/AdityaJagdale/sessions_demo_c3t.git)). This project showcases proficiency in software development, project planning, and technical documentation.
 
 ### Where I'm Weak
 
