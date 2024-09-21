@@ -76,10 +76,8 @@ I possess a solid foundation in core cybersecurity concepts and can apply my ski
 
 **Future Goals:**
 
--   **Pursue Certifications:** Obtain certifications in security fundamentals (e.g., Security+).
 -   **Ethical Hacking Training:** Participate in ethical hacking training to gain practical experience with penetration testing tools and techniques.
 -   **Network Monitoring Expertise:** Expand my knowledge and experience with advanced network monitoring tools and techniques.
--   **Technical Writing Courses:** Enroll in technical writing courses to strengthen my communication skills.
 -   **Stay Updated:** Continuously follow industry trends and stay abreast of emerging threats and vulnerabilities.
 
 ## Contribution Towards the Capstone
@@ -91,4 +89,3 @@ Data analytics projects often involve handling and storing sensitive data. My cy
 -   **Incident Response Planning:** Developing a plan for responding to security incidents that could compromise data integrity or availability.
 -   **Threat Detection and Monitoring:** Leveraging data analytics techniques to detect anomalous patterns that could indicate a security breach.
 
-By integrating my cybersecurity expertise with other analytical skills, I can contribute significantly
