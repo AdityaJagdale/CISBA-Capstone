@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select GPU</title>
+</head>
+<body>
+    <h1>Select GPU</h1>
+    <form method="post">
+        {% csrf_token %}
+        <ul>
+            {% for gpu in gpus %}
+                <li>
+                    <input type="radio" id="gpu_{{ gpu.id }}" name="gpu" value="{{ gpu.name }}">
+                    <label for="gpu_{{ gpu.id }}">{{ gpu.name }}</label>
+                </li>
+            {% endfor %}
+        </ul>
+        {{ form.as_p }}
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

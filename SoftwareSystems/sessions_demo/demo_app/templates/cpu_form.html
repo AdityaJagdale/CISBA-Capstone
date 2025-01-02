@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select CPU</title>
+</head>
+<body>
+    <h1>Select CPU</h1>
+    <form method="post">
+        {% csrf_token %}
+        <ul>
+            {% for cpu in cpus %}
+                <li>
+                    <input type="radio" id="cpu_{{ cpu.id }}" name="cpu" value="{{ cpu.name }}">
+                    <label for="cpu_{{ cpu.id }}">{{ cpu.name }}</label>
+                </li>
+            {% endfor %}
+        </ul>
+        {{ form.as_p }}
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

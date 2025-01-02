@@ -1,0 +1,27 @@
+Private Use Only License
+This is a license for software provided solely for private use.
+
+Copyright (c) 2024 Aditya Jagdale
+
+You are granted a non-exclusive, non-transferable license to use the software for private purposes only. This license does not grant you any rights to:
+  a. Use the software for commercial purposes.
+  b. Distribute the software to others.
+  c. Modify the software and obtain patents or trademarks based on the modifications.
+
+You must retain the license and copyright notice in all copies of the software.
+If you make any changes to the software, you must clearly document the changes.
+You must disclose the source code of any derivative works based on the software.
+You may not distribute the software to others, even if you modify it.
+You agree that network transmission of the software is considered distribution.
+Any derivative work you create must be licensed under the same terms as this license.
+
+This license will terminate automatically if you fail to comply with any of its terms and conditions. 
+Upon termination, you must cease all use of the software and return or destroy all copies of the software in your possession or control.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PC Part Picker</title>
+</head>
+<body>
+    <h1>Welcome to the PC Part Picker</h1>
+    <p>CPU: {{ cpu }} 
+        <a href="{% url 'cpu_form' %}">Pick</a> 
+        <a href="{% url 'remove_part' 'cpu' %}">Remove</a>
+    </p>
+    <p>GPU: {{ gpu }} 
+        <a href="{% url 'gpu_form' %}">Pick</a> 
+        <a href="{% url 'remove_part' 'gpu' %}">Remove</a>
+    </p>
+    <p>RAM: {{ ram }} 
+        <a href="{% url 'ram_form' %}">Pick</a> 
+        <a href="{% url 'remove_part' 'ram' %}">Remove</a>
+    </p>
+    <form action="{% url 'reset_parts' %}" method="post">
+        {% csrf_token %}
+        <button type="submit">Reset All Parts</button>
+    </form>
+</body>
+</html>
